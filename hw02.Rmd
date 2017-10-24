@@ -1,0 +1,13 @@
+---
+title: 'Computational Biology. Part 2.'
+author: "Vasilii Feofanov, Vitalii Emelianov"
+date: "October 24, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
